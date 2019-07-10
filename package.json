@@ -1,0 +1,26 @@
+{
+  "name": "liri-bot-node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Liri-Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seankish/Liri-Bot-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seankish/Liri-Bot-Node.js/issues"
+  },
+  "homepage": "https://github.com/seankish/Liri-Bot-Node.js#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
